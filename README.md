@@ -3,7 +3,6 @@ Jakub Raczkowski
 
 ## About me
 
-### I am a person of many interests who likes learning new things. I used to be:
 * a traveler (been to nearly 50 countries, Europe/Asia)
 * a blogger (it's been over 15 years since I started my first website and I still publish)
 * a teacher (was teaching English in China and Poland)
