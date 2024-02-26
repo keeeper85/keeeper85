@@ -14,7 +14,6 @@ Jakub Raczkowski
 
 ## TechStack
 
-### Cause this is GitHub, let's focus on the technologies I've worked with:
 * Java 8 (mostly, sometimes some higher tier features)
 * IntelliJ IDEA & Maven
 * JUnit for testing
@@ -27,29 +26,11 @@ Jakub Raczkowski
 
 ## Projects
 
-### My own creations worth checking out:
 * [Design Patterns](https://github.com/keeeper85/DesignPatterns) - examples of the most popular design patterns with descriptions on my blog
 * [Clean Them All!](https://github.com/keeeper85/CTA-Maven) - a simple yet addictive puzzle-like game
 * [ITCandidateEvaluator](https://github.com/keeeper85/ITCandidateEvaluator) - a tool designed for helping recruiters at job interviews 
 
 ---
-
-## Soft skills
-
-* specialized at passing knowledge to others (mostly in fun ways)
-* persistent and up to the challenge
-* like making plans and stick to them
-* very quick learner and good at seeking solutions
-
----
-
-## Personal interests
-
-* at the moment it's mostly programming and blogging
-* I like playing some old games over and over again (e.g. Heroes 3, Baldur's Gate 2, Fallout 2)
-* indie pixel game enthusiast (FTL, Stardew Valley, Kingdom, Vampire Survivors)
-
---- 
 
 ## Links
 
