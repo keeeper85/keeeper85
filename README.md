@@ -10,8 +10,6 @@ Jakub Raczkowski
 * a builder (I have renovated my house almost all by myself)
 * and now a programmer (backend Java)
 
-This all describes me as a person who's persistent and ready for challenges, careful and practical. I enjoy all forms of creation - from wood and concrete to words and code.
-
 ---
 
 ## TechStack
