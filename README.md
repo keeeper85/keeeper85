@@ -14,12 +14,10 @@ Jakub Raczkowski
 
 ## TechStack
 
-* Java 8 (mostly, sometimes some higher tier features)
-* IntelliJ IDEA & Maven
+* Java 8, IntelliJ IDEA & Maven
 * JUnit for testing
 * SQL with MySQL
 * Design Patterns & Clean code
-* Swing for fun projects
 * (currently learning) Spring framework
 
 ---
@@ -36,5 +34,4 @@ Jakub Raczkowski
 
 * [My blog (Polish language)](https://wwsj.xyu.pl/wwsj/)   
 * [LinkedIn](https://wwsj.xyu.pl/wwsj/)
-* [Steam](https://steamcommunity.com/id/keeeper/)
 
