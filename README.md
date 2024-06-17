@@ -3,29 +3,30 @@ Jakub Raczkowski
 
 ## About me
 
-* a traveler (been to nearly 50 countries, Europe/Asia)
-* a blogger (it's been over 15 years since I started my first website and I still publish)
-* a teacher (was teaching English in China and Poland)
-* a builder (I have renovated my house almost all by myself)
-* and now a programmer (backend Java)
+* a programmer (backend Java)
+* a teacher (ESL)
+* a blogger (wswieciejutra.eu)
 
 ---
 
 ## TechStack
 
-* Java 8, IntelliJ IDEA & Maven
-* JUnit for testing
-* SQL with MySQL
-* Design Patterns & Clean code
-* (currently learning) Spring framework
+* Java 21, Maven/Gradle
+* SQL with MySQL/Postgres
+* Spring Boot with Hibernate
+* Testing: JUnit/Mockito/Spock
+* Containers: Docker + Kubernetes (learning ATM)
+* CI/CD: Jenkins/GH Actions
+* Design Patterns & Clean architecture
 
 ---
 
 ## Projects
 
+* [Gaminatorium](https://github.com/keeeper85/Gaminatorium) - a webapplication which collects, publishes and rates minigames developed by various programmers
+* [ITCandidateEvaluator](https://github.com/keeeper85/ITCandidateEvaluator) - a tool designed for helping recruiters at job interviews, made with clean Java 
 * [Design Patterns](https://github.com/keeeper85/DesignPatterns) - examples of the most popular design patterns with descriptions on my blog
 * [Clean Them All!](https://github.com/keeeper85/CTA-Maven) - a simple yet addictive puzzle-like game
-* [ITCandidateEvaluator](https://github.com/keeeper85/ITCandidateEvaluator) - a tool designed for helping recruiters at job interviews 
 
 ---
 
@@ -33,4 +34,5 @@ Jakub Raczkowski
 
 * [My blog (Polish language)](https://wwsj.xyu.pl/wwsj/)   
 * [LinkedIn](https://wwsj.xyu.pl/wwsj/)
+* [Gaminatorium Project](https://gaminatorium.eu)
 
