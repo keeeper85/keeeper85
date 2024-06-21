@@ -32,7 +32,7 @@ Jakub Raczkowski
 
 ## Links
 
-* ["World of tomorrow" blog](Polish language)](https://wswieciejutra.eu/)   
+* ["World of tomorrow" blog](https://wswieciejutra.eu/)   
 * [LinkedIn](https://www.linkedin.com/in/jakub-raczkowski-81401b231/)
 * [Gaminatorium Project](https://gaminatorium.eu)
 
